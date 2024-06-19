@@ -14,6 +14,6 @@ I'm Gabriel, a 19 years old developer from Brazil.
 ## Contact
 -🐦 [@GabrielTei4](https://twitter.com/gabrieltei4) on Twitter
 
--🖥️ [@teizinn](./) on Discord
+-🖥️ [@Teizinn](./) on Discord
 
--📷 [@_gabrielteixeira1](https://instagram.com/_gabrielteixeira1) on Instagram
+-📷 [@_GabrielTeixeira1](https://instagram.com/_gabrielteixeira1) on Instagram
