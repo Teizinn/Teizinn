@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Gabriel, a 19 years old developer from Brazil.
+I'm Gabriel, a 20 years old developer from Brazil.
 
 - 🖥️ I'm currently studying Computer Science at Universidade Franciscana.
 
