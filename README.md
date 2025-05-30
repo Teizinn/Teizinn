@@ -4,6 +4,7 @@
 
 ## Hey! 👋
 I'm Gabriel, a 20 years old developer from Brazil.
+I'm from LGBT🌈
 
 - 🖥️ I'm currently studying Computer Science at Universidade Franciscana.
 
